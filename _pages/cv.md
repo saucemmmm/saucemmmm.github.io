@@ -58,4 +58,4 @@ Machine Learning, Causal Inference, Statistical Learning Methods
 ## Programming Skills
 * **Matrix and Statistical Languages:** Python, R, Stata
 * **Version Control and IDE:** VS Code, GitHub, Git, RStudio, Google Colab
-* **Typesetting and Presentation:** $\LaTeX$, Prism, Microsoft Office Suite
+* **Typesetting and Presentation:** LaTeX, Prism, Microsoft Office Suite
