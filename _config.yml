@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Maxwell Woodfield - Economics"
 title_separator          : "-"
 name                     : &name "Maxwell Woodfield"
-description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Welcome to my professional home page. "   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://saucemmmm.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saucemmmm/saucemmmm.github.io"
