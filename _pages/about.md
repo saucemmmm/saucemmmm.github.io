@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Contact Information
 **Department of Economics, Queen’s University**  
 19 Scott St  
@@ -35,10 +34,10 @@ Machine Learning, Causal Inference, Statistical Learning Methods
 *Short Abstract.* We develop a reinforcement learning framework that enables neural network training loops to adapt batch size in real time. By observing smoothed optimization and system metrics, the agent continuously scales batch size to balance gradient quality and hardware efficiency. Results on standard vision benchmarks suggest that learned policies can improve training efficiency without sacrificing final accuracy.
 
 ## Recently Completed Projects
-**"Loan Approval Classification: A Comparative Study of Machine Learning Models"**  
+**[Loan Approval Classification: A Comparative Study of Machine Learning Models](/files/Loan_Approval_Classification.pdf)**
 *Short Abstract.* This study delves into predictive modeling for automated loan approval classification, using applicant financial and demographic data. Multiple models were built and compared (Regression, Ensemble methods, Neural Networks), with pipelines incorporating feature engineering, outlier removal, one-hot encoding, SMOTE-based class balancing, and randomized hyperparameter search. Data pre-processing, visualization, precision tuning, and model comparison were also used to identify the results from each model.
 
-**"A project proposal: CBDC Resilience and Real Economic Behavior: Causal Evidence from the DCash Shutdown"**  
+**[A project proposal: CBDC Resilience and Real Economic Behavior: Causal Evidence from the DCash Shutdown](/files/821proj.pdf)**  
 *Short Abstract.* This project evaluates how a prolonged CBDC outage affects economic activity and user confidence in digital public money. Using transaction-level and merchant-level data from the DCash platform, the empirical strategy exploits exposure heterogeneity and outage timing to identify causal impacts via Difference-in-Differences and instrumental variable methods. The study also applies Double Machine Learning to estimate heterogeneous treatment effects, providing policy-relevant evidence on CBDC reliability, adoption sustainability, and systemic risk.
 
 ## Work Experience
