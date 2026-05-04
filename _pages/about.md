@@ -27,10 +27,10 @@ Machine Learning, Causal Inference, Statistical Learning Methods
 **“Machine Learning and the Robustness of Causal Estimates: Evidence from Re-Estimated Studies in African Development”**  
 *Short Abstract.* Building on prior research demonstrating the value added of machine learning to causal inference, we extend the analysis to three additional foundational papers in African development. We focus on Double Machine Learning, causal forest, and other machine learning methods to obtain robust estimates of both average and heterogeneous treatment effects without imposing restrictive functional form assumptions. The results evaluate the empirical stability of influential findings under modern, flexible estimation techniques.
 
-**“Mitigating Hallucination in Large Multimodal Models via Efficient Visual Attention Regularization”**  
+**[Mitigating Hallucination in Large Multimodal Models via Efficient Visual Attention Regularization](/files/CISC874___Project_Report.pdf)**  
 *Short Abstract.* Large AI models that analyze images and text often make mistakes by relying too much on learned patterns instead of the actual image. This work introduces efficient techniques that redirect the model’s attention to important visual details. Experiments show that these methods reduce incorrect outputs while maintaining similar speed and performance .
 
-**“Toward Self-Optimizing Training Loops: Reinforcement Learning for Adaptive Batch Size Control”**  
+**[Toward Self-Optimizing Training Loops: Reinforcement Learning for Adaptive Batch Size Control](/files/CISC_856_Final_Paper_Report.pdf)**  
 *Short Abstract.* We develop a reinforcement learning framework that enables neural network training loops to adapt batch size in real time. By observing smoothed optimization and system metrics, the agent continuously scales batch size to balance gradient quality and hardware efficiency. Results on standard vision benchmarks suggest that learned policies can improve training efficiency without sacrificing final accuracy.
 
 ## Recently Completed Projects**[Loan Approval Classification: A Comparative Study of Machine Learning Models](/files/Loan_Approval_Classification.pdf)**
