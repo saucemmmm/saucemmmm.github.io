@@ -27,14 +27,13 @@ Machine Learning, Causal Inference, Statistical Learning Methods
 **“Machine Learning and the Robustness of Causal Estimates: Evidence from Re-Estimated Studies in African Development”**  
 *Short Abstract.* Building on prior research demonstrating the value added of machine learning to causal inference, we extend the analysis to three additional foundational papers in African development. We focus on Double Machine Learning, causal forest, and other machine learning methods to obtain robust estimates of both average and heterogeneous treatment effects without imposing restrictive functional form assumptions. The results evaluate the empirical stability of influential findings under modern, flexible estimation techniques.
 
-**“From Sink Tokens to Visual Grounding: A Robust Optimization Framework for Multimodal Hallucination Mitigation”**  
-*Short Abstract.* This work expands on the Visual Attention Sink hypothesis by introducing structured optimization and hybrid decoding strategies to strengthen visual grounding. We combine redistribution tuning with contrastive inference mechanisms to reduce spurious activations in hidden dimensions. Our approach demonstrates state-of-the-art hallucination reduction performance while maintaining generation quality and computational efficiency.
+**“Mitigating Hallucination in Large Multimodal Models via Efficient Visual Attention Regularization”**  
+*Short Abstract.* Large AI models that analyze images and text often make mistakes by relying too much on learned patterns instead of the actual image. This work introduces efficient techniques that redirect the model’s attention to important visual details. Experiments show that these methods reduce incorrect outputs while maintaining similar speed and performance .
 
 **“Toward Self-Optimizing Training Loops: Reinforcement Learning for Adaptive Batch Size Control”**  
 *Short Abstract.* We develop a reinforcement learning framework that enables neural network training loops to adapt batch size in real time. By observing smoothed optimization and system metrics, the agent continuously scales batch size to balance gradient quality and hardware efficiency. Results on standard vision benchmarks suggest that learned policies can improve training efficiency without sacrificing final accuracy.
 
-## Recently Completed Projects
-**[Loan Approval Classification: A Comparative Study of Machine Learning Models](/files/Loan_Approval_Classification.pdf)**
+## Recently Completed Projects**[Loan Approval Classification: A Comparative Study of Machine Learning Models](/files/Loan_Approval_Classification.pdf)**
 *Short Abstract.* This study delves into predictive modeling for automated loan approval classification, using applicant financial and demographic data. Multiple models were built and compared (Regression, Ensemble methods, Neural Networks), with pipelines incorporating feature engineering, outlier removal, one-hot encoding, SMOTE-based class balancing, and randomized hyperparameter search. Data pre-processing, visualization, precision tuning, and model comparison were also used to identify the results from each model.
 
 **[A project proposal: CBDC Resilience and Real Economic Behavior: Causal Evidence from the DCash Shutdown](/files/821proj.pdf)**  
