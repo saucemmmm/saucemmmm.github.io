@@ -8,8 +8,8 @@ redirect_from:
 ---
 ## Contact Information
 **Department of Economics, Queen’s University**  
-19 Scott St  
-Kingston, Ontario, Canada K7L 1L3  
+94 University Avenue
+K7L 3N6
 
 **Email:** [25pf15@queensu.ca](mailto:25pf15@queensu.ca)  
 **Website:** [https://saucemmmm.github.io/](https://saucemmmm.github.io/)  
