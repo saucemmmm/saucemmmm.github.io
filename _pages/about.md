@@ -32,7 +32,7 @@ Machine Learning, Causal Inference, Statistical Learning Methods
 **[Mitigating Hallucination in Large Multimodal Models via Efficient Visual Attention Regularization](https://github.com/saucemmmm/Mitigating-Hallucination-in-Large-Multimodal-Models-via-Efficient-Visual-Attention-Regularization)**  
 *Short Abstract.* Large AI models that analyze images and text often make mistakes by relying too much on learned patterns instead of the actual image. This work introduces efficient techniques that redirect the model’s attention to important visual details. Experiments show that these methods reduce incorrect outputs while maintaining similar speed and performance .
 
-**[Toward Self-Optimizing Training Loops: Reinforcement Learning for Adaptive Batch Size Control](/files/CISC_856_Final_Paper_Report.pdf)**  
+**[Toward Self-Optimizing Training Loops: Reinforcement Learning for Adaptive Batch Size Control](/files/CISC_856_Final_Paper.pdf)**  
 *Short Abstract.* We develop a reinforcement learning framework that enables neural network training loops to adapt batch size in real time. By observing smoothed optimization and system metrics, the agent continuously scales batch size to balance gradient quality and hardware efficiency. Results on standard vision benchmarks suggest that learned policies can improve training efficiency without sacrificing final accuracy.
 
 **[Loan Approval Classification: A Comparative Study of Machine Learning Models](/files/Loan_Approval_Classification.pdf)**
