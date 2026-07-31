@@ -7,23 +7,18 @@ redirect_from:
   - /about.html
 ---
 ## Contact Information
-**Department of Economics, Queen’s University**  
-94 University Avenue, K7L 3N6
 
-**Email:** [25pf15@queensu.ca](mailto:25pf15@queensu.ca)  
+**Email:** [maxjdines@gmail.com](mailto:maxjdines@gmail.com)  
 **Website:** [https://saucemmmm.github.io/](https://saucemmmm.github.io/)  
 **Citizenship:** Canadian  
-
-## Research Areas
-Machine Learning, Causal Inference, Statistical Learning Methods
 
 ## Education
 * **M.A. in Economics**, Queen’s University
   * Supervisor: Professor Abhimanyu Gupta
 * **Bachelor of Arts (Double Major) in Economics and Statistics**, University of British Columbia
 
-## Current Research
-**“Machine Learning and the Robustness of Causal Estimates: Evidence from Re-Estimated Studies in African Development”**  
+## MA Research Project
+**[Machine Learning and the Robustness of Causal Estimates:Evidence from Re-Estimated Studies in African Development](https://github.com/saucemmmm/Econ_MA (2).pdf)**   
 *Short Abstract.* Building on prior research demonstrating the value added of machine learning to causal inference, we extend the analysis to three additional foundational papers in African development. We focus on Double Machine Learning, causal forest, and other machine learning methods to obtain robust estimates of both average and heterogeneous treatment effects without imposing restrictive functional form assumptions. The results evaluate the empirical stability of influential findings under modern, flexible estimation techniques.
 
 
@@ -41,12 +36,6 @@ Machine Learning, Causal Inference, Statistical Learning Methods
 **[A project proposal: CBDC Resilience and Real Economic Behavior: Causal Evidence from the DCash Shutdown](/files/821proj.pdf)**  
 *Short Abstract.* This project evaluates how a prolonged CBDC outage affects economic activity and user confidence in digital public money. Using transaction-level and merchant-level data from the DCash platform, the empirical strategy exploits exposure heterogeneity and outage timing to identify causal impacts via Difference-in-Differences and instrumental variable methods. The study also applies Double Machine Learning to estimate heterogeneous treatment effects, providing policy-relevant evidence on CBDC reliability, adoption sustainability, and systemic risk.
 
-## Most Recent Work Experience
-**UBC - Project Leader**
-  * Led a team of 15 student staff, providing training, project oversight, and feedback on content development.
-  * Collected and preprocessed tens of thousands of student interaction records from a web-tracked system exported to Excel, performing data cleaning, structuring, and text wrangling to prepare unstructured inquiry data       for analysis.
-  * Conducted exploratory and text-based analysis to identify trends, frequently asked questions, and interaction patterns, delivering actionable insights through a comprehensive report and guide that improved information     desk efficiency and communication consistency.
-  * Redesigned our public website, optimizing user traction, implementing accessibility practices to enhance usability, and improving navigation efficiency.
 
 ## Programming Skills
 * **Matrix and Statistical Languages:** Python, R, Stata, SQL
