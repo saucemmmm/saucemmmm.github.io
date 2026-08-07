@@ -37,6 +37,14 @@ redirect_from:
 *Short Abstract.* This project evaluates how a prolonged CBDC outage affects economic activity and user confidence in digital public money. Using transaction-level and merchant-level data from the DCash platform, the empirical strategy exploits exposure heterogeneity and outage timing to identify causal impacts via Difference-in-Differences and instrumental variable methods. The study also applies Double Machine Learning to estimate heterogeneous treatment effects, providing policy-relevant evidence on CBDC reliability, adoption sustainability, and systemic risk.
 
 
+## Most Recent Work Experience
+
+### Project Assistant Leader at U.B.C. - 2023 to 2025
+
+* Redesigned our public website, optimizing user traction, implementing accessibility practices to enhance usability, and improving navigation efficiency
+* Monitored and analyzed social media analytics to identify trends, optimizing content strategies to enhance user interactions and increase student-driven projects' visibility
+* Led a team of 15 student staff, providing training, project oversight, and feedback on content development
+
 ## Programming Skills
 * **Matrix and Statistical Languages:** Python, R, Stata, SQL
 * **Version Control and IDE:** VS Code, GitHub, Git, RStudio, Google Colab
