@@ -15,7 +15,7 @@ redirect_from:
 ## Education
 * **M.A. in Economics** | Queen’s University - Conferred: August 2026 | GPA: 4.0
   * Research supervisor: Professor Abhimanyu Gupta
-* **Bachelor of Arts (Double Major) in Economics and Statistics**, University of British Columbia - Conferred: May 2025
+* **Bachelor of Arts (Double Major) in Economics and Statistics**, University of British Columbia - Graduated: May 2025
 
 ## MA Research Essay
 **[Machine Learning and the Robustness of Causal Estimates: Evidence from Re-Estimated Studies in African Development](https://github.com/saucemmmm/Machine-Learning-and-the-Robustness-of-Causal-Estimates)**   
