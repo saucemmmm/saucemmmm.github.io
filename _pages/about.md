@@ -18,6 +18,7 @@ redirect_from:
 
 ## MA Research Essay
 **[Machine Learning and the Robustness of Causal Estimates: Evidence from Re-Estimated Studies in African Development](https://github.com/saucemmmm/Machine-Learning-and-the-Robustness-of-Causal-Estimates)**   
+
 *Short Abstract.* Building on prior research demonstrating the value added of machine learning to causal inference, we extend the analysis to three additional foundational papers in African development. We focus on Double Machine Learning, causal forest, and other machine learning methods to obtain robust estimates of both average and heterogeneous treatment effects without imposing restrictive functional form assumptions. The results evaluate the empirical stability of influential findings under modern, flexible estimation techniques.
 
 
