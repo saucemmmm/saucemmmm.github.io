@@ -47,6 +47,6 @@ redirect_from:
 
 
 ## Programming Skills
-* **Matrix and Statistical Languages:** Python, R, Stata, SQL
+* **Matrix and Statistical Languages:** Python (pandas, NumPy, SciPy), R, Stata, SQL
 * **Version Control and IDE:** VS Code, GitHub, Git, RStudio, Google Colab
 * **Typesetting and Presentation:** LaTeX, Prism, Microsoft Office Suite
