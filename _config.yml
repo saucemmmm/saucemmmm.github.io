@@ -13,9 +13,9 @@ title                    : "Maxwell Woodfield - Economics"
 title_separator          : "-"
 name                     : &name "Maxwell Woodfield"
 description              : &description "Welcome to my professional home page."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://saucemmmm.github.io"
+url                      : "https://Maxwell-Woodfield.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "saucemmmm/saucemmmm.github.io"
+repository               : "Maxwell-Woodfield/Maxwell-Woodfield.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : 
   location         : "Vancouver, British Columbia"
   employer         : 
-  uri              : "https://saucemmmm.github.io"
+  uri              : "https://Maxwell-Woodfield.github.io"
   email            : "maxjdines@gmail.com" 
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "saucemmmm"
+  github           : "Maxwell-Woodfield"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
