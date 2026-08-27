@@ -8,8 +8,8 @@ redirect_from:
 ---
 ## Contact Information
 
-**Email:** [maxjdines@gmail.com](mailto:maxjdines@gmail.com)  
-**Website:** [https://saucemmmm.github.io/](https://saucemmmm.github.io/)  
+**Email:** [maxwell.woodfield@gmail.com](mailto:maxjdines@gmail.com)  
+**Website:** [https://Maxwell-Woodfield.github.io/](https://saucemmmm.github.io/)  
 
 ## Education
 * **M.A. in Economics**, Queen’s University, Conferred: August 2026, GPA: 4.0
